@@ -1,6 +1,6 @@
 name: TWS
 favicon: null
-layout_spectrum: 0.75678
+layout_spectrum: 1
 typography_spectrum: 0.5142
 title: Timeless Wisdom Series
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#901d3a'
-    - '#111a17'
-    - '#ffffff'
-    - '#b06428'
-    - '#d6ab80'
+    - '#1e1f23'
+    - '#bf8383'
+    - '#3d464d'
+    - '#ebe4dc'
+    - '#9db79a'
   brandStrength: 0.5
   lightness: 0.875
   saturation: 0.0625
