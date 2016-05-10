@@ -1,0 +1,28 @@
+name: TWS
+favicon: null
+layout_spectrum: 0.9586070282384753
+typography_spectrum: 0.8730051827151328
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.47352704824879766
+  lightness: 0.9139783105347306
+  saturation: 0.026455229613929987
+  rhythmicContrast: 0.027431329945102334
+purpose: []
