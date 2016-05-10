@@ -4,22 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: >-
-  Modern people have
-
-  more diversions than people from any other time. Why, then, are so many people
-
-  lonely? With so many toys and gadgets to distract us, have we forgotten the
-
-  importance of friendship? Why is depression on the rise? Why do we hesitate to
-
-  communicate with each other? Friendship should be the most natural and easiest
-
-  of human interactions and yet it is not always so.
-datePublished: '2016-05-10T13:33:29.647Z'
-dateModified: '2016-05-10T13:33:25.720Z'
+description: 'Modern people have more diversions than people from any other time. Why, then, are so many people lonely? With so many toys and gadgets to distract us, have we forgotten the importance of friendship? Why is depression on the rise? Why do we hesitate to communicate with each other? Friendship should be the most natural and easiest of human interactions and yet it is not always so.'
+datePublished: '2016-05-10T17:34:49.375Z'
+dateModified: '2016-05-10T13:33:36.775Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-10-modern-people-have-more-diversions-than-people-from-any-othe.md
 authors: []
 publisher:
   name: null
@@ -27,17 +17,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-modern-people-have-more-diversions-than-people-from-any-othe.md
 url: modern-people-have-more-diversions-than-people-from-any-othe/index.html
 _type: Article
 
 ---
-Modern people have
-more diversions than people from any other time. Why, then, are so many people
-lonely? With so many toys and gadgets to distract us, have we forgotten the
-importance of friendship? Why is depression on the rise? Why do we hesitate to
-communicate with each other? Friendship should be the most natural and easiest
-of human interactions and yet it is not always so.
+Modern people have more diversions than people from any other time. Why, then, are so many people lonely? With so many toys and gadgets to distract us, have we forgotten the importance of friendship? Why is depression on the rise? Why do we hesitate to communicate with each other? Friendship should be the most natural and easiest of human interactions and yet it is not always so.
 
 ****
 
@@ -56,8 +40,7 @@ The foreword has been given by Revered Dada J. P. Vaswani, a universally acclaim
 
 ****Highlights****
 
-* Contains the wisdom of over eighty philosophers, mystics and saints
-through six hundred thought provoking and inspirational sayings. 
+* Contains the wisdom of over eighty philosophers, mystics and saints through six hundred thought provoking and inspirational sayings. 
 
 * The quotes from various Masters have been arranged thematically, taking reader on a journey from simple definition to a deeper insight into various aspects of the topic. 
 
