@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TWS]]></title>
+        <description><![CDATA[TWS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 13:33:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Modern people have
+more diversions than people from any other time. Why, then, are so many people
+lonely? With so many toys and gadgets to distract us, have we forgotten the
+importance of friendship? Why is depression on the rise? Why do we hesitate to
+communicate with each other? Friendship should be the most natural and easiest
+of human interactions and yet it is not always so.</p>]]></description>
+            <link>undefinedmodern-people-have-more-diversions-than-people-from-any-othe/index.html</link>
+            <guid isPermaLink="false">5804fd99-2166-457e-b289-06f2e0f0669a</guid>
+            <pubDate>Tue, 10 May 2016 13:33:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
